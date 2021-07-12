@@ -20,6 +20,7 @@ public class TestApplication {
 		CopyModel c = ModelMapper.INSTANCE.mapOriginal2Copy(o);
 		
 		System.out.println(c);
+		
 	}
 
 }
